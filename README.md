@@ -22,10 +22,6 @@ employee, customer, invoice, invoice_line, track, album, artist, genre.
 - Window functions (ROW_NUMBER)
 - CROSS JOIN for global aggregation
 
-## Project Structure
-- `queries/` contains all SQL queries
-- `presentation/` contains the PowerPoint summary
-- `screenshots/` contains query result samples
 
 ## Tools
 - SQL (PostgreSQL / MySQL compatible)
