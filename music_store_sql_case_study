@@ -1,0 +1,41 @@
+
+
+Q1. Senior Most Employee
+
+Find the most senior employee in the organization based on job level.
+
+Q2. Invoice Count by Country
+
+Determine the number of invoices generated in each billing country and identify which country has the highest number of invoices.
+
+Q3. Top 3 Invoice Totals
+
+Retrieve the top three highest invoice total amounts from the invoice table.
+
+Q4. City With the Highest Revenue
+
+Identify the billing city that has generated the highest total revenue from invoices.
+
+Q5. Best Customer
+
+Find the customer who has spent the maximum total amount across all invoices.
+
+Q6. Rock Music Customers
+
+Retrieve the list of customers who have purchased tracks belonging to the Rock genre, including their email and name details.
+
+Q7. Top 10 Rock Artists
+
+Identify the top 10 artists who have the highest number of Rock genre tracks.
+
+Q8. Tracks Longer Than Average Length
+
+Find all tracks whose duration is longer than the average track length of all tracks in the database.
+
+Q9. Customer Spending by Artist
+
+Calculate how much total amount each customer has spent on each artist and return the top spending records.
+
+Q10. Most Popular Music Genre by Country
+
+Determine the most popular music genre for each country based on the number of purchases.
