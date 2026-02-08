@@ -8,6 +8,9 @@ customer behavior, sales performance, and music trends using SQL.
 The dataset represents a digital music store and includes the following tables:
 employee, customer, invoice, invoice_line, track, album, artist, genre.
 
+## Schema
+![img alt]
+
 ## Objectives
 - Identify the senior most employee
 - Analyze invoice distribution by country and city
