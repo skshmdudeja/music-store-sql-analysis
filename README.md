@@ -9,7 +9,7 @@ The dataset represents a digital music store and includes the following tables:
 employee, customer, invoice, invoice_line, track, album, artist, genre.
 
 ## Schema
-![img alt]
+![img alt](https://github.com/skshmdudeja/music-store-sql-analysis/blob/main/schema.png?raw=true)
 
 ## Objectives
 - Identify the senior most employee
